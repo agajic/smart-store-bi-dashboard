@@ -63,7 +63,8 @@ This project followed a complete **data analytics lifecycle**, from raw data to 
 
 The dataset was normalized into six interrelated tables for easier querying and analysis:
 
-![Data Model](model.PNG)
+![Data Model](https://github.com/user-attachments/assets/1f98b07e-5ea6-4ae6-8680-48a167acb4c9)
+
 
 1. **Orders**: Order-level data (ID, date, priority, return status)  
 2. **Order Items**: Transactional line items, with all financial fields (sales, profit, shipping, etc.)  
