@@ -49,6 +49,7 @@ This project followed a complete **data analytics lifecycle**, from raw data to 
   - Hierarchical drill-throughs
   - RFM segmentation
   - Interactive maps, pie/ribbon/race charts, and scatter plots
+  - **Filters pane on every page** for dynamic slicing by product, region, and time
 - Organized dashboard into 8 tabs for ease of navigation.
 
 ### 4. **Final Deliverables**
@@ -123,6 +124,19 @@ The dataset was normalized into six interrelated tables for easier querying and 
 
 ### 8. **Orders**
 - Cleaned, raw transactional data table
+
+
+
+### 🎛️ Universal Filters Pane
+
+Every page includes a **filters pane** with slicers for seamless interactivity.  
+Users can slice visualizations by:
+
+- **Product Category & Sub-Category**
+- **Timeline / Date Range**
+- **US Region, State, and City**
+
+This design enables fast exploration and **targeted insights** based on business questions.
 
 ---
 
