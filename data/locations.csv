@@ -1,0 +1,986 @@
+country,region,state_or_province,city,postal_code,location_id
+United States,Central,Minnesota,Prior Lake,55372,1
+United States,Central,Texas,Round Rock,78664,2
+United States,Central,Illinois,Chicago,60601,3
+United States,Central,Kansas,Manhattan,66502,4
+United States,Central,Illinois,Alton,62002,5
+United States,Central,Texas,Watauga,76148,6
+United States,Central,Texas,Gainesville,76240,7
+United States,Central,Illinois,Arlington Heights,60004,8
+United States,Central,Illinois,Aurora,60505,9
+United States,Central,Kansas,Overland Park,66212,10
+United States,Central,Michigan,Detroit,48138,11
+United States,Central,Oklahoma,Bartlesville,74006,12
+United States,Central,Illinois,Orland Park,60462,13
+United States,Central,Iowa,Newton,50208,14
+United States,Central,Minnesota,Richfield,55423,15
+United States,Central,Texas,San Antonio,78207,16
+United States,Central,Kansas,Shawnee,66203,17
+United States,Central,Kansas,Wichita,67212,18
+United States,Central,Illinois,Forest Park,60130,19
+United States,Central,Illinois,Batavia,60510,20
+United States,Central,Michigan,Detroit,48234,21
+United States,Central,Illinois,Bloomington,61701,22
+United States,Central,Nebraska,Grand Island,68801,23
+United States,Central,Nebraska,Kearney,68847,24
+United States,Central,Nebraska,Lincoln,68502,25
+United States,Central,Missouri,Clayton,63105,26
+United States,Central,Texas,San Juan,78589,27
+United States,Central,Illinois,Urbana,61801,28
+United States,Central,Nebraska,Norfolk,68701,29
+United States,Central,Minnesota,Roseville,55113,30
+United States,Central,Illinois,Oswego,60543,31
+United States,Central,Illinois,Vernon Hills,60061,32
+United States,Central,Texas,Seguin,78155,33
+United States,Central,Texas,Sherman,75090,34
+United States,Central,Illinois,Pekin,61554,35
+United States,Central,Illinois,Wilmette,60091,36
+United States,Central,Illinois,Woodridge,60517,37
+United States,Central,Indiana,Anderson,46016,38
+United States,Central,Indiana,Carmel,46032,39
+United States,Central,Indiana,Columbus,47201,40
+United States,Central,Michigan,Southgate,48195,41
+United States,Central,Minnesota,Saint Paul,55106,42
+United States,Central,Minnesota,Shakopee,55379,43
+United States,Central,Illinois,Bolingbrook,60440,44
+United States,Central,Illinois,Buffalo Grove,60089,45
+United States,Central,Texas,Dallas,75203,46
+United States,Central,Iowa,Ottumwa,52501,47
+United States,Central,Missouri,Raytown,64133,48
+United States,Central,Nebraska,Papillion,68046,49
+United States,Central,Missouri,Saint Louis,63116,50
+United States,Central,Missouri,Saint Peters,63376,51
+United States,Central,Indiana,Crown Point,46307,52
+United States,Central,Indiana,East Chicago,46312,53
+United States,Central,Indiana,Frankfort,46041,54
+United States,Central,Illinois,Quincy,62301,55
+United States,Central,Illinois,Rock Island,61201,56
+United States,Central,Oklahoma,Mustang,73064,57
+United States,Central,Texas,Abilene,79605,58
+United States,Central,Texas,Amarillo,79109,59
+United States,Central,Minnesota,Shoreview,55126,60
+United States,Central,Texas,Bedford,76021,61
+United States,Central,Texas,Denton,76201,62
+United States,Central,Texas,Bryan,77803,63
+United States,Central,Texas,Burleson,76028,64
+United States,Central,Texas,Highland Village,75067,65
+United States,Central,Illinois,Chicago,60610,66
+United States,Central,Kansas,Pittsburg,66762,67
+United States,Central,Illinois,Burbank,60459,68
+United States,Central,Illinois,Calumet City,60409,69
+United States,Central,Illinois,Carbondale,62901,70
+United States,Central,Illinois,Romeoville,60441,71
+United States,Central,Illinois,Saint Charles,60174,72
+United States,Central,Illinois,Springfield,62701,73
+United States,Central,Nebraska,Omaha,68046,74
+United States,Central,Texas,Dallas,75220,75
+United States,Central,Texas,Lake Jackson,77566,76
+United States,Central,Texas,Lancaster,75146,77
+United States,Central,Texas,Laredo,78041,78
+United States,Central,Texas,Eagle Pass,78852,79
+United States,Central,Texas,Edinburg,78539,80
+United States,Central,Texas,El Paso,79907,81
+United States,Central,Texas,Euless,76039,82
+United States,Central,Texas,Farmers Branch,75234,83
+United States,Central,Illinois,Carol Stream,60188,84
+United States,Central,Texas,The Colony,75056,85
+United States,Central,Texas,Waco,76706,86
+United States,Central,Indiana,Fort Wayne,46806,87
+United States,Central,Indiana,Gary,46404,88
+United States,Central,Indiana,Granger,46530,89
+United States,Central,Texas,Sulphur Springs,75482,90
+United States,Central,Texas,Flower Mound,75028,91
+United States,Central,Texas,Carrollton,75007,92
+United States,Central,Texas,Cedar Hill,75104,93
+United States,Central,Texas,Leander,78641,94
+United States,Central,Illinois,Carpentersville,60110,95
+United States,Central,Texas,Cedar Park,78613,96
+United States,Central,Texas,Channelview,77530,97
+United States,Central,Oklahoma,Altus,73521,98
+United States,Central,Indiana,Hammond,46324,99
+United States,Central,Indiana,Vincennes,47591,100
+United States,Central,Illinois,Chicago,60623,101
+United States,Central,Texas,Weatherford,76086,102
+United States,Central,Texas,Weslaco,78596,103
+United States,Central,Iowa,Muscatine,52761,104
+United States,Central,Michigan,Allen Park,48101,105
+United States,Central,Texas,Lubbock,79424,106
+United States,Central,Texas,Lufkin,75901,107
+United States,Central,Texas,Mansfield,76063,108
+United States,Central,Illinois,Chicago,60653,109
+United States,Central,Michigan,Battle Creek,49017,110
+United States,Central,Indiana,Indianapolis,46203,111
+United States,Central,Indiana,Kokomo,46901,112
+United States,Central,Indiana,Lafayette,47905,113
+United States,Central,Michigan,Bay City,48708,114
+United States,Central,Indiana,Jeffersonville,47130,115
+United States,Central,Missouri,Springfield,65807,116
+United States,Central,Nebraska,Columbus,68601,117
+United States,Central,Illinois,Des Plaines,60016,118
+United States,Central,Illinois,Downers Grove,60516,119
+United States,Central,Missouri,Ozark,65721,120
+United States,Central,Texas,College Station,77840,121
+United States,Central,Indiana,Muncie,47302,122
+United States,Central,Minnesota,Hopkins,55305,123
+United States,Central,Missouri,University City,63130,124
+United States,Central,Indiana,Richmond,47374,125
+United States,Central,Indiana,Highland,46322,126
+United States,Central,Indiana,Schererville,46375,127
+United States,Central,Texas,Friendswood,77546,128
+United States,Central,Illinois,Woodstock,60098,129
+United States,Central,Illinois,Chicago,60611,130
+United States,Central,Texas,Conroe,77301,131
+United States,Central,Illinois,Elgin,60123,132
+United States,Central,Kansas,Newton,67114,133
+United States,Central,Oklahoma,Enid,73703,134
+United States,Central,Oklahoma,Lawton,73505,135
+United States,Central,Missouri,Creve Coeur,63141,136
+United States,Central,Illinois,Freeport,61032,137
+United States,Central,Indiana,South Bend,46614,138
+United States,Central,Indiana,Terre Haute,47802,139
+United States,Central,Indiana,Valparaiso,46383,140
+United States,Central,Indiana,West Lafayette,47906,141
+United States,Central,Illinois,Galesburg,61401,142
+United States,Central,Michigan,Canton,48187,143
+United States,Central,Michigan,Dearborn,48126,144
+United States,Central,Iowa,Bettendorf,52722,145
+United States,Central,Iowa,Burlington,52601,146
+United States,Central,Iowa,Cedar Falls,50613,147
+United States,Central,Iowa,Cedar Rapids,52402,148
+United States,Central,Missouri,Webster Groves,63119,149
+United States,Central,Wisconsin,Appleton,54915,150
+United States,Central,Texas,Garland,75043,151
+United States,Central,Texas,Georgetown,78626,152
+United States,Central,Texas,Grand Prairie,75051,153
+United States,Central,Kansas,Emporia,66801,154
+United States,Central,Michigan,Saginaw,48601,155
+United States,Central,Iowa,Clinton,52732,156
+United States,Central,Michigan,Dearborn Heights,48127,157
+United States,Central,Michigan,East Lansing,48823,158
+United States,Central,Texas,Midland,79701,159
+United States,Central,Iowa,Council Bluffs,51503,160
+United States,Central,Texas,Greenville,75401,161
+United States,Central,Kansas,Liberal,67901,162
+United States,Central,Nebraska,North Platte,69101,163
+United States,Central,Michigan,Eastpointe,48021,164
+United States,Central,Michigan,Farmington Hills,48336,165
+United States,Central,Michigan,Flint,48505,166
+United States,Central,Michigan,Garden City,48135,167
+United States,Central,Missouri,Mehlville,63129,168
+United States,Central,Michigan,Sterling Heights,48310,169
+United States,Central,Missouri,Gladstone,64118,170
+United States,Central,Missouri,Hazelwood,63042,171
+United States,Central,Wisconsin,Watertown,53094,172
+United States,Central,Iowa,Dubuque,52001,173
+United States,Central,Michigan,Warren,48093,174
+United States,Central,Michigan,Westland,48185,175
+United States,Central,Missouri,Independence,64055,176
+United States,Central,Michigan,Detroit,48227,177
+United States,Central,Minnesota,Bloomington,55420,178
+United States,Central,Minnesota,Brooklyn Center,55429,179
+United States,Central,Minnesota,Brooklyn Park,55445,180
+United States,Central,Minnesota,Burnsville,55337,181
+United States,Central,Iowa,Fort Dodge,50501,182
+United States,Central,Missouri,Joplin,64804,183
+United States,Central,Missouri,Kansas City,64130,184
+United States,Central,Missouri,Kirkwood,63122,185
+United States,Central,Texas,Harker Heights,76543,186
+United States,Central,Texas,Harlingen,78550,187
+United States,Central,Texas,Houston,77036,188
+United States,Central,Wisconsin,Eau Claire,54703,189
+United States,Central,Wisconsin,Fitchburg,53713,190
+United States,Central,Wisconsin,Franklin,53132,191
+United States,Central,Minnesota,Coon Rapids,55433,192
+United States,Central,South Dakota,Watertown,57201,193
+United States,Central,Iowa,Marion,52302,194
+United States,Central,Wisconsin,Green Bay,54302,195
+United States,Central,Wisconsin,Greenfield,53220,196
+United States,Central,Texas,Cloverleaf,77015,197
+United States,Central,Minnesota,Duluth,55803,198
+United States,Central,Michigan,Grand Rapids,49505,199
+United States,Central,Illinois,Hanover Park,60103,200
+United States,Central,Texas,Huntsville,77340,201
+United States,Central,Texas,Hurst,76053,202
+United States,Central,Texas,Irving,75061,203
+United States,Central,Texas,Keller,76248,204
+United States,Central,Texas,Killeen,76541,205
+United States,Central,Oklahoma,Midwest City,73110,206
+United States,Central,Oklahoma,Moore,73160,207
+United States,Central,Wisconsin,Muskego,53150,208
+United States,Central,Minnesota,Edina,55410,209
+United States,Central,Wisconsin,Janesville,53545,210
+United States,Central,Minnesota,Lino Lakes,55014,211
+United States,Central,Michigan,Sault Sainte Marie,49783,212
+United States,Central,Illinois,Joliet,60432,213
+United States,Central,Illinois,Kankakee,60901,214
+United States,Central,Illinois,Lake In The Hills,60102,215
+United States,Central,Indiana,Munster,46321,216
+United States,Central,Texas,Corsicana,75109,217
+United States,Central,Wisconsin,Kenosha,53142,218
+United States,Central,Wisconsin,Madison,53711,219
+United States,Central,Minnesota,Fridley,55432,220
+United States,Central,Michigan,Holland,49423,221
+United States,Central,Michigan,Inkster,48141,222
+United States,Central,Wisconsin,Manitowoc,54220,223
+United States,Central,Michigan,Portage,49002,224
+United States,Central,South Dakota,Aberdeen,57401,225
+United States,Central,South Dakota,Sioux Falls,57103,226
+United States,Central,Oklahoma,Norman,73071,227
+United States,Central,Kansas,Derby,67037,228
+United States,Central,South Dakota,Rapid City,57701,229
+United States,Central,Michigan,Kalamazoo,49001,230
+United States,Central,Michigan,Lansing,48911,231
+United States,Central,Illinois,Lansing,60438,232
+United States,Central,Illinois,Franklin Park,60131,233
+United States,Central,Michigan,Madison Heights,48071,234
+United States,Central,Iowa,Marshalltown,50158,235
+United States,Central,Iowa,Mason City,50401,236
+United States,Central,Iowa,Sioux City,51106,237
+United States,Central,Missouri,Oakville,63129,238
+United States,Central,Minnesota,Inver Grove Heights,55076,239
+United States,Central,Oklahoma,Tulsa,74133,240
+United States,Central,Texas,Odessa,79762,241
+United States,Central,Kansas,Hays,67601,242
+United States,Central,Nebraska,La Vista,68128,243
+United States,Central,Texas,Paris,75460,244
+United States,Central,Michigan,Livonia,48154,245
+United States,Central,Minnesota,Mankato,56001,246
+United States,Central,Minnesota,Maple Grove,55369,247
+United States,Central,North Dakota,Grand Forks,58201,248
+United States,Central,Illinois,Chicago,60603,249
+United States,Central,Michigan,Midland,48640,250
+United States,Central,Minnesota,Maplewood,55119,251
+United States,Central,Wisconsin,Milwaukee,53209,252
+United States,Central,Wisconsin,Neenah,54956,253
+United States,Central,Wisconsin,New Berlin,53151,254
+United States,Central,Wisconsin,Oak Creek,53154,255
+United States,Central,North Dakota,Dickinson,58601,256
+United States,Central,Iowa,West Des Moines,50265,257
+United States,Central,Wisconsin,Racine,53402,258
+United States,Central,Wisconsin,Sheboygan,53081,259
+United States,Central,Michigan,Oak Park,48237,260
+United States,Central,Michigan,Pontiac,48342,261
+United States,Central,Michigan,Port Huron,48060,262
+United States,Central,Minnesota,Minnetonka Mills,55343,263
+United States,Central,Illinois,Lombard,60148,264
+United States,Central,North Dakota,Mandan,58554,265
+United States,Central,Kansas,Garden City,67846,266
+United States,Central,Kansas,Hutchinson,67501,267
+United States,Central,Kansas,Leavenworth,66048,268
+United States,Central,Kansas,Leawood,66209,269
+United States,Central,Minnesota,Oakdale,55128,270
+United States,Central,Texas,Houston,77041,271
+United States,Central,Illinois,Melrose Park,60160,272
+United States,Central,Illinois,Moline,61265,273
+United States,Central,Illinois,Mount Prospect,60056,274
+United States,Central,Illinois,Mundelein,60060,275
+United States,Central,Illinois,Naperville,60540,276
+United States,Central,Texas,Pasadena,77506,277
+United States,Central,Texas,Pflugerville,78660,278
+United States,Central,Texas,Pharr,78577,279
+United States,Central,Minnesota,Owatonna,55060,280
+United States,Central,Wisconsin,Stevens Point,54481,281
+United States,Central,Illinois,Northbrook,60062,282
+United States,Central,Illinois,Addison,60101,283
+United States,Central,Wisconsin,Superior,54880,284
+United States,Central,Wisconsin,Waukesha,53186,285
+United States,Central,Michigan,Adrian,49221,286
+United States,Central,Michigan,Rochester Hills,48307,287
+United States,Central,Wisconsin,Wauwatosa,53213,288
+United States,Central,Wisconsin,West Allis,53214,289
+United States,Central,Wisconsin,West Bend,53095,290
+United States,Central,Illinois,Danville,61832,291
+United States,East,New Jersey,Roselle,07203,292
+United States,East,New York,Smithtown,11787,293
+United States,East,New York,Syracuse,13210,294
+United States,East,New York,New York City,10012,295
+United States,East,New York,Tonawanda,14150,296
+United States,East,New York,New York City,10177,297
+United States,East,Vermont,Burlington,05401,298
+United States,East,Ohio,Canton,44708,299
+United States,East,Ohio,Cincinnati,45231,300
+United States,East,Maine,Biddeford,04005,301
+United States,East,Massachusetts,Boston,02129,302
+United States,East,New Hampshire,Dover,03820,303
+United States,East,New Jersey,Lodi,07644,304
+United States,East,Connecticut,Ansonia,06401,305
+United States,East,Massachusetts,Yarmouth,02664,306
+United States,East,Pennsylvania,West Mifflin,15122,307
+United States,East,New Jersey,Fort Lee,07024,308
+United States,East,Massachusetts,Arlington,02474,309
+United States,East,New York,Troy,12180,310
+United States,East,New York,Utica,13501,311
+United States,East,Pennsylvania,Hanover,17331,312
+United States,East,Ohio,Cleveland Heights,44106,313
+United States,East,Connecticut,Fairfield,06824,314
+United States,East,Connecticut,Newington,06111,315
+United States,East,New Jersey,Belleville,07109,316
+United States,East,New Jersey,Newark,07101,317
+United States,East,Maryland,Pikesville,21208,318
+United States,East,Massachusetts,Belchertown,01007,319
+United States,East,Maryland,Potomac,20854,320
+United States,East,Maine,Sanford,04073,321
+United States,East,New Hampshire,Goffstown,03045,322
+United States,East,Ohio,Columbus,43229,323
+United States,East,Maine,Bangor,04401,324
+United States,East,Maine,Portland,04101,325
+United States,East,New York,Watertown,13601,326
+United States,East,Pennsylvania,King of Prussia,19406,327
+United States,East,Rhode Island,Cranston,02910,328
+United States,East,Maine,Lewiston,04240,329
+United States,East,Massachusetts,Everett,02149,330
+United States,East,Pennsylvania,Drexel Hill,19026,331
+United States,East,New York,Auburn,13021,332
+United States,East,Ohio,Cuyahoga Falls,44221,333
+United States,East,Ohio,Dayton,45406,334
+United States,East,New Jersey,South Vineland,08360,335
+United States,East,New Jersey,Elizabeth,07201,336
+United States,East,Massachusetts,Lunenburg,01462,337
+United States,East,New Jersey,Millville,08332,338
+United States,East,Massachusetts,Bellingham,02019,339
+United States,East,Massachusetts,Beverly,01915,340
+United States,East,Massachusetts,Hanson,02341,341
+United States,East,New Jersey,Hawthorne,07506,342
+United States,East,New Jersey,Trenton,08601,343
+United States,East,Maryland,Randallstown,21133,344
+United States,East,Maine,South Portland,04106,345
+United States,East,Massachusetts,Norwood,02062,346
+United States,East,New York,New York City,10154,347
+United States,East,West Virginia,Morgantown,26501,348
+United States,East,Connecticut,Naugatuck,06770,349
+United States,East,Connecticut,Seymour,06478,350
+United States,East,Maine,Auburn,04210,351
+United States,East,Massachusetts,Woburn,01801,352
+United States,East,New Hampshire,Concord,03301,353
+United States,East,Maryland,Reisterstown,21136,354
+United States,East,New York,West Islip,11795,355
+United States,East,New Hampshire,Manchester,03101,356
+United States,East,Vermont,Rutland,05701,357
+United States,East,Ohio,Steubenville,43952,358
+United States,East,Massachusetts,Oxford,01540,359
+United States,East,Vermont,South Burlington,05403,360
+United States,East,Massachusetts,Winthrop,02152,361
+United States,East,Connecticut,Stratford,06614,362
+United States,East,Massachusetts,Burlington,01803,363
+United States,East,New Hampshire,Salem,03079,364
+United States,East,New Jersey,Bloomfield,07003,365
+United States,East,New Jersey,Cranford,07016,366
+United States,East,New Jersey,Summit,07901,367
+United States,East,Pennsylvania,Allentown,18103,368
+United States,East,Connecticut,Bristol,06010,369
+United States,East,Connecticut,Branford,06405,370
+United States,East,Connecticut,Danbury,06810,371
+United States,East,District of Columbia,Washington,20024,372
+United States,East,New York,New York City,10039,373
+United States,East,Pennsylvania,Altoona,16602,374
+United States,East,Massachusetts,Wilmington,01887,375
+United States,East,West Virginia,Wheeling,26003,376
+United States,East,Maine,Augusta,04330,377
+United States,East,New Jersey,Old Bridge,08857,378
+United States,East,Connecticut,New Milford,06776,379
+United States,East,New Jersey,Bayonne,07002,380
+United States,East,Massachusetts,Boston,02108,381
+United States,East,Maine,West Scarborough,04070,382
+United States,East,New Jersey,Ridgewood,07450,383
+United States,East,Vermont,Bennington,05201,384
+United States,East,Maine,Gorham,04038,385
+United States,East,Maine,Saco,04072,386
+United States,East,Pennsylvania,Wilkinsburg,15221,387
+United States,East,New York,Central Islip,11722,388
+United States,East,New York,Cheektowaga,14225,389
+United States,East,New York,Commack,11725,390
+United States,East,Ohio,Delaware,43015,391
+United States,East,Ohio,Dublin,43017,392
+United States,East,Massachusetts,Boston,02109,393
+United States,East,New York,Coram,11727,394
+United States,East,Pennsylvania,Bethlehem,18018,395
+United States,East,New York,Deer Park,11729,396
+United States,East,New York,Dix Hills,11746,397
+United States,East,New York,New York City,10282,398
+United States,East,Connecticut,Norwich,06360,399
+United States,East,Massachusetts,Boston,02118,400
+United States,East,Massachusetts,South Hadley,01075,401
+United States,East,Massachusetts,Tewksbury,01876,402
+United States,East,New Jersey,Union City,07086,403
+United States,East,Delaware,Newark,19711,404
+United States,East,Connecticut,New Britain,06050,405
+United States,East,District of Columbia,Washington,20016,406
+United States,East,Massachusetts,Sudbury,01776,407
+United States,East,New Hampshire,Nashua,03060,408
+United States,East,New Jersey,Elmwood Park,07407,409
+United States,East,New Jersey,South Orange,07079,410
+United States,East,Rhode Island,Cranston,02920,411
+United States,East,Massachusetts,Boston,02112,412
+United States,East,Rhode Island,Pawtucket,02861,413
+United States,East,Pennsylvania,Philadelphia,19140,414
+United States,East,New York,New York City,10009,415
+United States,East,Pennsylvania,Philadelphia,19134,416
+United States,East,New York,New York City,10170,417
+United States,East,Pennsylvania,Chambersburg,17201,418
+United States,East,Maryland,Camp Springs,20746,419
+United States,East,New Hampshire,Portsmouth,03801,420
+United States,East,Massachusetts,Boston,02113,421
+United States,East,Ohio,Elyria,44035,422
+United States,East,Ohio,Euclid,44117,423
+United States,East,Ohio,Westerville,43081,424
+United States,East,Ohio,Westlake,44145,425
+United States,East,Ohio,Wooster,44691,426
+United States,East,Maryland,Dundalk,21222,427
+United States,East,New York,Elmira,14901,428
+United States,East,Maine,Waterville,04901,429
+United States,East,Ohio,Willoughby,44094,430
+United States,East,West Virginia,Huntington,25705,431
+United States,East,Maryland,Waldorf,20601,432
+United States,East,New York,Woodmere,11598,433
+United States,East,New York,Franklin Square,11010,434
+United States,East,New York,Freeport,11520,435
+United States,East,Massachusetts,Hopkinton,01748,436
+United States,East,Pennsylvania,Lancaster,17602,437
+United States,East,New York,Glen Cove,11542,438
+United States,East,Connecticut,Stamford,06901,439
+United States,East,New York,Bethpage,11714,440
+United States,East,Ohio,Fairborn,45324,441
+United States,East,Ohio,Fairfield,45014,442
+United States,East,Pennsylvania,Harrisburg,17112,443
+United States,East,Pennsylvania,Levittown,19057,444
+United States,East,Ohio,Shaker Heights,44118,445
+United States,East,Pennsylvania,Pottstown,19464,446
+United States,East,Ohio,Hilliard,43026,447
+United States,East,Ohio,Kent,44240,448
+United States,East,Ohio,Kettering,45429,449
+United States,East,District of Columbia,Washington,20012,450
+United States,East,New York,Harrison,10528,451
+United States,East,New York,Hempstead,11550,452
+United States,East,West Virginia,Parkersburg,26101,453
+United States,East,Massachusetts,Townsend,01469,454
+United States,East,Massachusetts,Webster,01570,455
+United States,East,New Jersey,Linden,07036,456
+United States,East,Rhode Island,Barrington,02806,457
+United States,East,Ohio,Lima,45801,458
+United States,East,Ohio,Lorain,44052,459
+United States,East,Pennsylvania,Mount Lebanon,15228,460
+United States,East,Pennsylvania,Willow Grove,19090,461
+United States,East,New York,East Massapequa,11758,462
+United States,East,Pennsylvania,Plum,15239,463
+United States,East,New York,Mount Vernon,10550,464
+United States,East,New York,Ithaca,14853,465
+United States,East,New York,New City,10956,466
+United States,East,Pennsylvania,Sharon,16146,467
+United States,East,Massachusetts,Worcester,01610,468
+United States,East,New York,Jamestown,14701,469
+United States,East,New York,Levittown,11756,470
+United States,East,New York,Lindenhurst,11757,471
+United States,East,Maryland,Bowie,20715,472
+United States,East,Maryland,Catonsville,21228,473
+United States,East,Ohio,Massillon,44646,474
+United States,East,Ohio,Medina,44256,475
+United States,East,Pennsylvania,State College,16801,476
+United States,East,New York,Niagara Falls,14304,477
+United States,East,Pennsylvania,Greensburg,15601,478
+United States,East,New York,New York City,10011,479
+United States,East,Maryland,College Park,20740,480
+United States,East,Maryland,Crofton,21114,481
+United States,East,Maryland,Cumberland,21501,482
+United States,East,Maryland,Edgewood,21040,483
+United States,East,New York,New York City,10024,484
+United States,East,New York,Oceanside,11572,485
+United States,East,New York,New York City,10035,486
+United States,East,Connecticut,Cheshire,06408,487
+United States,East,Massachusetts,Cambridge,02138,488
+United States,East,New Jersey,Englewood,07631,489
+United States,East,Rhode Island,Providence,02908,490
+United States,East,Ohio,Whitehall,43213,491
+United States,East,Pennsylvania,York,17403,492
+United States,East,New York,Ossining,10562,493
+United States,East,New York,New York City,10165,494
+United States,East,New Hampshire,Merrimack,03054,495
+United States,East,New Jersey,Hackensack,07601,496
+United States,East,New Jersey,Iselin,08830,497
+United States,East,New Jersey,Fords,08863,498
+United States,East,New York,New York City,10004,499
+United States,East,Pennsylvania,Baldwin,15234,500
+United States,East,Ohio,Lakewood,44107,501
+United States,East,New York,Plainview,11803,502
+United States,East,New Jersey,Clifton,07011,503
+United States,East,Maryland,Ellicott City,21042,504
+United States,East,New York,New York City,10115,505
+United States,East,Connecticut,Waterbury,06708,506
+United States,East,New Jersey,Lindenwold,08021,507
+United States,East,Maryland,Gaithersburg,20877,508
+United States,East,Pennsylvania,Pittsburgh,15122,509
+United States,East,Ohio,Newark,43055,510
+United States,East,Ohio,North Olmsted,44070,511
+United States,East,Ohio,North Ridgeville,44039,512
+United States,East,Ohio,North Royalton,44133,513
+United States,East,Ohio,Parma,44134,514
+United States,East,Ohio,Reynoldsburg,43068,515
+United States,East,Ohio,Garfield Heights,44125,516
+United States,East,Maryland,Hagerstown,21740,517
+United States,East,Maryland,Laurel,20707,518
+United States,East,Massachusetts,Boston,02215,519
+United States,East,Massachusetts,Stoneham,02180,520
+United States,East,New Jersey,Morristown,07960,521
+United States,East,New York,Depew,14043,522
+United States,East,Ohio,Grove City,43123,523
+United States,East,Maryland,Middle River,21220,524
+United States,East,Ohio,Mount Vernon,43050,525
+United States,East,Ohio,Sandusky,44870,526
+United States,East,New York,Rochester,14609,527
+United States,East,Ohio,Austintown,44515,528
+United States,East,Ohio,Stow,44224,529
+United States,East,Ohio,Strongsville,44136,530
+United States,East,Ohio,Toledo,43615,531
+United States,East,Pennsylvania,Philadelphia,19112,532
+United States,East,Ohio,Hamilton,45011,533
+United States,East,New York,Shirley,11967,534
+United States,East,New Hampshire,Laconia,03246,535
+United States,East,New Hampshire,Londonderry,03053,536
+United States,East,New Hampshire,Hudson,03051,537
+United States,East,Maryland,Annapolis,21403,538
+United States,East,New York,New York City,10112,539
+United States,East,New York,Rotterdam,12306,540
+United States,East,New Jersey,North Plainfield,07060,541
+United States,East,Connecticut,New London,06320,542
+United States,East,Massachusetts,Agawam,01001,543
+United States,East,Massachusetts,Natick,01760,544
+United States,East,Massachusetts,Sandwich,02563,545
+United States,East,Massachusetts,Winchester,01890,546
+United States,East,District of Columbia,Washington,20006,547
+United States,East,Ohio,Troy,45373,548
+United States,East,Ohio,Upper Arlington,43221,549
+United States,East,Maryland,Odenton,21113,550
+United States,East,Ohio,Boardman,44512,551
+United States,East,Ohio,Bowling Green,43402,552
+United States,East,West Virginia,Fairmont,26554,553
+United States,South,Virginia,Salem,24153,554
+United States,South,Louisiana,Terrytown,70056,555
+United States,South,Virginia,Tysons Corner,22102,556
+United States,South,Tennessee,Kingsport,37664,557
+United States,South,Tennessee,Knoxville,37918,558
+United States,South,Tennessee,Lebanon,37087,559
+United States,South,Louisiana,Baton Rouge,70802,560
+United States,South,North Carolina,Mint Hill,28227,561
+United States,South,Tennessee,Maryville,37804,562
+United States,South,Florida,Seminole,33772,563
+United States,South,Georgia,Forest Park,30297,564
+United States,South,North Carolina,Charlotte,28204,565
+United States,South,Florida,Miami,33181,566
+United States,South,Florida,Miami,33132,567
+United States,South,Tennessee,Morristown,37814,568
+United States,South,North Carolina,Albemarle,28001,569
+United States,South,Georgia,Atlanta,30318,570
+United States,South,Tennessee,Murfreesboro,37130,571
+United States,South,Kentucky,Bowling Green,42104,572
+United States,South,Kentucky,Covington,41011,573
+United States,South,Tennessee,Farragut,37922,574
+United States,South,Virginia,Montclair,22025,575
+United States,South,Mississippi,Columbus,39701,576
+United States,South,Tennessee,Nashville,37211,577
+United States,South,Virginia,Rose Hill,24281,578
+United States,South,Kentucky,Florence,41042,579
+United States,South,Kentucky,Georgetown,40324,580
+United States,South,South Carolina,Hilton Head Island,29915,581
+United States,South,Florida,New Smyrna Beach,32168,582
+United States,South,Tennessee,Smyrna,37167,583
+United States,South,Tennessee,Spring Hill,37174,584
+United States,South,Arkansas,Texarkana,71854,585
+United States,South,Kentucky,Henderson,42420,586
+United States,South,Arkansas,Searcy,72143,587
+United States,South,Arkansas,Bryant,72022,588
+United States,South,North Carolina,Apex,27502,589
+United States,South,North Carolina,Asheville,28806,590
+United States,South,North Carolina,Cary,27511,591
+United States,South,Florida,Belle Glade,33430,592
+United States,South,Florida,Altamonte Springs,32701,593
+United States,South,Alabama,Madison,35756,594
+United States,South,Florida,Immokalee,34142,595
+United States,South,Alabama,Auburn,36830,596
+United States,South,Kentucky,Danville,40422,597
+United States,South,Florida,Boca Raton,33433,598
+United States,South,Florida,Brandon,33511,599
+United States,South,Florida,Carol City,33055,600
+United States,South,Florida,Coconut Creek,33063,601
+United States,South,Florida,Casselberry,32707,602
+United States,South,Virginia,Alexandria,22304,603
+United States,South,South Carolina,Taylors,29687,604
+United States,South,Florida,Coral Gables,33134,605
+United States,South,Florida,Coral Springs,33065,606
+United States,South,Alabama,Birmingham,35211,607
+United States,South,Alabama,Decatur,35601,608
+United States,South,North Carolina,Eden,27288,609
+United States,South,Florida,Palm Coast,32137,610
+United States,South,Mississippi,Biloxi,39530,611
+United States,South,Mississippi,Clinton,39056,612
+United States,South,Mississippi,Greenville,38701,613
+United States,South,Mississippi,Gulfport,39503,614
+United States,South,Virginia,Annandale,22003,615
+United States,South,Virginia,Blacksburg,24060,616
+United States,South,North Carolina,Fayetteville,28314,617
+United States,South,Tennessee,Greeneville,37743,618
+United States,South,Mississippi,Hattiesburg,39401,619
+United States,South,Mississippi,Horn Lake,38637,620
+United States,South,Mississippi,Jackson,39212,621
+United States,South,North Carolina,Asheboro,27203,622
+United States,South,Virginia,Burke,22015,623
+United States,South,Virginia,Charlottesville,22901,624
+United States,South,Virginia,Reston,20190,625
+United States,South,Arkansas,Hot Springs,71901,626
+United States,South,Mississippi,Meridian,39301,627
+United States,South,Georgia,Marietta,30062,628
+United States,South,Georgia,Martinez,30907,629
+United States,South,Georgia,Newnan,30265,630
+United States,South,North Carolina,Garner,27529,631
+United States,South,Alabama,Northport,35473,632
+United States,South,Arkansas,Jonesboro,72401,633
+United States,South,North Carolina,Gastonia,28052,634
+United States,South,North Carolina,Goldsboro,27534,635
+United States,South,Georgia,Atlanta,30305,636
+United States,South,Florida,Dunedin,34698,637
+United States,South,Georgia,Woodstock,30188,638
+United States,South,Mississippi,Olive Branch,38654,639
+United States,South,Mississippi,Pearl,39208,640
+United States,South,Alabama,Enterprise,36330,641
+United States,South,Florida,Palm Beach Gardens,33403,642
+United States,South,Virginia,Chesapeake,23320,643
+United States,South,Georgia,Peachtree City,30269,644
+United States,South,Arkansas,Little Rock,72209,645
+United States,South,Arkansas,North Little Rock,72113,646
+United States,South,Arkansas,Paragould,72450,647
+United States,South,Arkansas,Pine Bluff,71603,648
+United States,South,South Carolina,Greenville,29611,649
+United States,South,South Carolina,Greer,29651,650
+United States,South,Florida,Miami,33916,651
+United States,South,Mississippi,Tupelo,38801,652
+United States,South,Arkansas,Rogers,72756,653
+United States,South,Virginia,Harrisonburg,22801,654
+United States,South,North Carolina,Hickory,28601,655
+United States,South,North Carolina,High Point,27260,656
+United States,South,Virginia,Mechanicsville,23111,657
+United States,South,Virginia,Newport News,23602,658
+United States,South,North Carolina,Indian Trail,28079,659
+United States,South,Kentucky,Fort Thomas,41075,660
+United States,South,South Carolina,Mount Pleasant,29464,661
+United States,South,South Carolina,Myrtle Beach,29577,662
+United States,South,Virginia,Norfolk,23518,663
+United States,South,Virginia,Oakton,22124,664
+United States,South,Arkansas,Sherwood,72116,665
+United States,South,Arkansas,West Memphis,72301,666
+United States,South,Florida,West Palm Beach,33407,667
+United States,South,Virginia,Fairfax,20151,668
+United States,South,Florida,Fort Lauderdale,33311,669
+United States,South,Kentucky,Owensboro,42301,670
+United States,South,North Carolina,New Bern,28560,671
+United States,South,Georgia,College Park,30337,672
+United States,South,Florida,Winter Garden,34787,673
+United States,South,Florida,Lakeland,33801,674
+United States,South,Kentucky,Paducah,42003,675
+United States,South,North Carolina,Raleigh,27604,676
+United States,South,North Carolina,Rocky Mount,27801,677
+United States,South,Georgia,Rome,30161,678
+United States,South,Florida,Land O Lakes,34639,679
+United States,South,South Carolina,Mauldin,29662,680
+United States,South,South Carolina,Rock Hill,29730,681
+United States,South,South Carolina,Spartanburg,29301,682
+United States,South,South Carolina,Summerville,29483,683
+United States,South,Florida,Panama City,32404,684
+United States,South,Florida,Lehigh Acres,33971,685
+United States,South,Kentucky,Pleasure Ridge Park,40258,686
+United States,South,Florida,Fort Myers,33917,687
+United States,South,Florida,Fruit Cove,32259,688
+United States,South,Florida,Pembroke Pines,33024,689
+United States,South,Georgia,Roswell,30076,690
+United States,South,Georgia,Sandy Springs,30328,691
+United States,South,Georgia,Savannah,31401,692
+United States,South,Virginia,Petersburg,23805,693
+United States,South,Virginia,Portsmouth,23701,694
+United States,South,Virginia,Richmond,23223,695
+United States,South,Florida,Melbourne,32935,696
+United States,South,Florida,Merritt Island,32953,697
+United States,South,Florida,Miami,33142,698
+United States,South,Alabama,Hoover,35244,699
+United States,South,Alabama,Mobile,36608,700
+United States,South,Louisiana,Bossier City,71111,701
+United States,South,North Carolina,Salisbury,28144,702
+United States,South,Louisiana,Lafayette,70506,703
+United States,South,Florida,Winter Haven,33881,704
+United States,South,Georgia,Statesboro,30458,705
+United States,South,Georgia,Tucker,30084,706
+United States,South,Arkansas,Cabot,72023,707
+United States,South,Louisiana,Lake Charles,70601,708
+United States,South,Florida,Winter Park,32789,709
+United States,South,Florida,Winter Springs,32708,710
+United States,South,Virginia,Springfield,22153,711
+United States,South,Virginia,Virginia Beach,23464,712
+United States,South,Alabama,Opelika,36801,713
+United States,South,Alabama,Phenix City,36869,714
+United States,South,Georgia,Athens,30605,715
+United States,South,Tennessee,Bartlett,38134,716
+United States,South,Tennessee,Brentwood,37027,717
+United States,South,Virginia,Winchester,22601,718
+United States,South,Florida,Port Charlotte,33952,719
+United States,South,Alabama,Tuscaloosa,35401,720
+United States,South,Alabama,Vestavia Hills,35216,721
+United States,South,Florida,Pensacola,32503,722
+United States,South,Georgia,Dalton,30721,723
+United States,South,Tennessee,Chattanooga,37421,724
+United States,South,Tennessee,Clarksville,37042,725
+United States,South,Virginia,Waynesboro,22980,726
+United States,South,Georgia,Dunwoody,30338,727
+United States,South,Georgia,East Point,30344,728
+United States,South,North Carolina,Wilmington,28403,729
+United States,South,North Carolina,Wilson,27893,730
+United States,South,Louisiana,Metairie,70003,731
+United States,South,Tennessee,Cleveland,37311,732
+United States,South,Florida,North Miami,33161,733
+United States,South,Tennessee,Collierville,38017,734
+United States,South,Tennessee,Columbia,38401,735
+United States,South,Florida,Gainesville,32601,736
+United States,South,Florida,Hialeah,33012,737
+United States,South,Florida,North Miami Beach,33160,738
+United States,South,North Carolina,Charlotte,28206,739
+United States,South,South Carolina,Charleston,29418,740
+United States,South,Arkansas,Van Buren,72956,741
+United States,South,Florida,Hollywood,33021,742
+United States,South,Kentucky,Murray,42071,743
+United States,South,Florida,North Port,34287,744
+United States,South,Florida,Oakland Park,33334,745
+United States,South,Louisiana,New Iberia,70560,746
+United States,South,Florida,Orlando,32839,747
+United States,South,Louisiana,New Orleans,70117,748
+United States,South,Louisiana,Shreveport,71109,749
+United States,South,Florida,Saint Petersburg,33710,750
+United States,South,Florida,Sanford,32771,751
+United States,South,Florida,Ponte Vedra Beach,32004,752
+United States,South,Florida,Port Orange,32127,753
+United States,South,Florida,Port Saint Lucie,34952,754
+United States,South,Florida,Jacksonville,32216,755
+United States,South,Florida,Jupiter,33458,756
+United States,South,Florida,Riverview,33569,757
+United States,South,Florida,Spring Hill,34609,758
+United States,South,Florida,Sunrise,33322,759
+United States,South,Florida,Tallahassee,32303,760
+United States,South,Tennessee,Gallatin,37066,761
+United States,South,Tennessee,Germantown,38138,762
+United States,South,Tennessee,Hendersonville,37075,763
+United States,South,Louisiana,Slidell,70458,764
+United States,South,Florida,Tamarac,33319,765
+United States,South,South Carolina,Columbia,29203,766
+United States,South,Florida,Kendall,33156,767
+United States,South,Florida,Kissimmee,34741,768
+United States,South,Virginia,Herndon,20170,769
+United States,South,Florida,Lake Worth,33461,770
+United States,South,Tennessee,Jackson,38301,771
+United States,South,Florida,Ormond Beach,32174,772
+United States,South,Florida,Tampa,33614,773
+United States,South,Florida,Titusville,32780,774
+United States,South,Florida,Royal Palm Beach,33411,775
+United States,South,Georgia,Kennesaw,30144,776
+United States,South,Georgia,La Grange,30240,777
+United States,South,Georgia,Macon,31204,778
+United States,West,Washington,Anacortes,98221,779
+United States,West,California,San Gabriel,91776,780
+United States,West,Montana,Helena,59601,781
+United States,West,Montana,Missoula,59801,782
+United States,West,California,Laguna Niguel,92677,783
+United States,West,California,Lakewood,90712,784
+United States,West,Oregon,Grants Pass,97526,785
+United States,West,Oregon,Gresham,97030,786
+United States,West,Washington,Redmond,98052,787
+United States,West,Washington,Puyallup,98373,788
+United States,West,California,Napa,94559,789
+United States,West,California,Vacaville,95687,790
+United States,West,California,Vallejo,94591,791
+United States,West,Oregon,Lake Oswego,97035,792
+United States,West,Oregon,Mcminnville,97128,793
+United States,West,Washington,Seattle,98103,794
+United States,West,Utah,Layton,84041,795
+United States,West,California,Petaluma,94952,796
+United States,West,Colorado,Fort Collins,80525,797
+United States,West,Washington,Richland,99352,798
+United States,West,California,San Francisco,94122,799
+United States,West,Utah,Lehi,84043,800
+United States,West,Utah,Murray,84107,801
+United States,West,Colorado,Louisville,80027,802
+United States,West,Colorado,Fountain,80817,803
+United States,West,Colorado,Grand Junction,81503,804
+United States,West,Colorado,Highlands Ranch,80126,805
+United States,West,New Mexico,Santa Fe,87505,806
+United States,West,Arizona,Flagstaff,86001,807
+United States,West,Arizona,Gilbert,85234,808
+United States,West,Colorado,Loveland,80538,809
+United States,West,Washington,Seattle,98115,810
+United States,West,California,Lemon Grove,91945,811
+United States,West,Oregon,Medford,97504,812
+United States,West,Arizona,Glendale,85301,813
+United States,West,Arizona,Kingman,86401,814
+United States,West,California,Oakland,94601,815
+United States,West,Nevada,Carson City,89701,816
+United States,West,California,Los Altos,94024,817
+United States,West,California,Los Banos,93635,818
+United States,West,California,Los Gatos,95032,819
+United States,West,California,West Hollywood,90069,820
+United States,West,California,Fresno,93727,821
+United States,West,Washington,Seatac,98158,822
+United States,West,California,Manteca,95336,823
+United States,West,Oregon,Redmond,97756,824
+United States,West,Arizona,Mesa,85204,825
+United States,West,New Mexico,Roswell,88201,826
+United States,West,California,Los Angeles,90008,827
+United States,West,Utah,Pleasant Grove,84062,828
+United States,West,Utah,Provo,84604,829
+United States,West,Nevada,Henderson,89015,830
+United States,West,California,Pomona,91767,831
+United States,West,Colorado,Pueblo,81001,832
+United States,West,California,Los Angeles,90045,833
+United States,West,Colorado,Pueblo West,81007,834
+United States,West,California,Santa Clara,95051,835
+United States,West,California,Santa Cruz,95062,836
+United States,West,California,Santa Maria,93454,837
+United States,West,Washington,Seattle,98119,838
+United States,West,Nevada,Las Vegas,89115,839
+United States,West,California,Rancho Cucamonga,91730,840
+United States,West,Washington,Spanaway,98387,841
+United States,West,Washington,Spokane,99207,842
+United States,West,Washington,Tacoma,98408,843
+United States,West,Colorado,Thornton,80229,844
+United States,West,Washington,Seattle,98105,845
+United States,West,California,Los Angeles,90041,846
+United States,West,California,Santa Rosa,95404,847
+United States,West,Nevada,Pahrump,89041,848
+United States,West,Arizona,Oro Valley,85737,849
+United States,West,Arizona,Peoria,85345,850
+United States,West,Arizona,Prescott,86301,851
+United States,West,Arizona,Prescott Valley,86314,852
+United States,West,Oregon,Tualatin,97062,853
+United States,West,Washington,Vancouver,98661,854
+United States,West,Oregon,West Linn,97068,855
+United States,West,California,Whittier,90604,856
+United States,West,California,Mission Viejo,92691,857
+United States,West,Utah,Roy,84067,858
+United States,West,Washington,Walla Walla,99362,859
+United States,West,Colorado,Wheat Ridge,80033,860
+United States,West,California,Gilroy,95020,861
+United States,West,California,Goleta,93117,862
+United States,West,California,Hacienda Heights,91745,863
+United States,West,California,Hesperia,92345,864
+United States,West,Nevada,Reno,89502,865
+United States,West,Utah,Salt Lake City,84106,866
+United States,West,Arizona,Scottsdale,85254,867
+United States,West,California,Redding,96003,868
+United States,West,California,Redlands,92374,869
+United States,West,California,Redondo Beach,90278,870
+United States,West,California,Saratoga,95070,871
+United States,West,California,Los Angeles,90049,872
+United States,West,California,Redwood City,94061,873
+United States,West,California,Riverside,92503,874
+United States,West,California,Oxnard,93030,875
+United States,West,California,Woodland,95695,876
+United States,West,California,Yuba City,95991,877
+United States,West,California,Los Angeles,90004,878
+United States,West,Arizona,Surprise,85374,879
+United States,West,California,Yucaipa,92399,880
+United States,West,Colorado,Arvada,80004,881
+United States,West,Arizona,Tucson,85705,882
+United States,West,California,Temecula,92592,883
+United States,West,California,Roseville,95661,884
+United States,West,California,Montebello,90640,885
+United States,West,Utah,Spanish Fork,84660,886
+United States,West,Utah,Springville,84663,887
+United States,West,California,Huntington Beach,92646,888
+United States,West,Colorado,Aurora,80013,889
+United States,West,Colorado,Broomfield,80020,890
+United States,West,California,La Mesa,91941,891
+United States,West,Utah,Tooele,84074,892
+United States,West,Utah,West Jordan,84084,893
+United States,West,Utah,West Valley City,84120,894
+United States,West,Oregon,Coos Bay,97420,895
+United States,West,California,Los Angeles,90058,896
+United States,West,Colorado,Colorado Springs,80906,897
+United States,West,Colorado,Commerce City,80022,898
+United States,West,California,Stockton,95207,899
+United States,West,California,Menlo Park,94025,900
+United States,West,California,Sunnyvale,94086,901
+United States,West,California,Moreno Valley,92553,902
+United States,West,California,Mountain View,94043,903
+United States,West,Colorado,Englewood,80112,904
+United States,West,California,South Lake Tahoe,96150,905
+United States,West,Utah,Clearfield,84015,906
+United States,West,California,Sacramento,95823,907
+United States,West,California,Salinas,93905,908
+United States,West,California,Thousand Oaks,91360,909
+United States,West,California,Laguna Hills,92653,910
+United States,West,California,San Diego,92037,911
+United States,West,Idaho,Moscow,83843,912
+United States,West,California,Torrance,90503,913
+United States,West,California,San Carlos,94070,914
+United States,West,California,San Clemente,92672,915
+United States,West,California,San Francisco,94110,916
+United States,West,California,Carlsbad,92008,917
+United States,West,New Mexico,Alamogordo,88310,918
+United States,West,Utah,Draper,84020,919
+United States,West,Montana,Bozeman,59715,920
+United States,West,Montana,Butte,59750,921
+United States,West,Colorado,Littleton,80122,922
+United States,West,Utah,Holladay,84117,923
+United States,West,Utah,Kearns,84118,924
+United States,West,Colorado,Durango,81301,925
+United States,West,New Mexico,Albuquerque,87105,926
+United States,West,California,Chico,95928,927
+United States,West,New Mexico,Clovis,88101,928
+United States,West,California,Pasadena,91104,929
+United States,West,New Mexico,Hobbs,88240,930
+United States,West,California,Coachella,92236,931
+United States,West,Wyoming,Rock Springs,82901,932
+United States,West,New Mexico,Las Cruces,88001,933
+United States,West,California,Concord,94521,934
+United States,West,California,Costa Mesa,92627,935
+United States,West,California,San Diego,92024,936
+United States,West,California,Apple Valley,92307,937
+United States,West,California,Atascadero,93422,938
+United States,West,California,Los Angeles,90068,939
+United States,West,California,Davis,95616,940
+United States,West,Idaho,Boise,83704,941
+United States,West,California,Bakersfield,93309,942
+United States,West,Arizona,Bullhead City,86442,943
+United States,West,Washington,Bellingham,98226,944
+United States,West,Idaho,Caldwell,83605,945
+United States,West,Arizona,Chandler,85224,946
+United States,West,California,Dublin,94568,947
+United States,West,Oregon,Woodburn,97071,948
+United States,West,California,East Los Angeles,90022,949
+United States,West,Nevada,North Las Vegas,89031,950
+United States,West,Idaho,Boise,83701,951
+United States,West,California,El Centro,92243,952
+United States,West,Washington,Des Moines,98198,953
+United States,West,Washington,Edmonds,98026,954
+United States,West,Washington,Seattle,98107,955
+United States,West,California,El Dorado Hills,95630,956
+United States,West,Idaho,Coeur D Alene,83814,957
+United States,West,Idaho,Idaho Falls,83402,958
+United States,West,California,Encinitas,92024,959
+United States,West,California,Berkeley,94704,960
+United States,West,Washington,Kirkland,98034,961
+United States,West,Washington,Lacey,98503,962
+United States,West,California,Los Angeles,90061,963
+United States,West,Idaho,Post Falls,83854,964
+United States,West,Idaho,Rexburg,83440,965
+United States,West,California,Twentynine Palms,92277,966
+United States,West,California,San Francisco,94109,967
+United States,West,Idaho,Twin Falls,83301,968
+United States,West,California,Beverly Hills,90210,969
+United States,West,Oregon,Corvallis,97330,970
+United States,West,Washington,Longview,98632,971
+United States,West,Washington,Lynnwood,98037,972
+United States,West,California,Eureka,95501,973
+United States,West,Washington,Mount Vernon,98273,974
+United States,West,California,Granite Bay,95746,975
+United States,West,Arizona,El Mirage,85335,976
+United States,West,Oregon,Troutdale,97060,977
+United States,West,Washington,Parkland,98444,978
+United States,West,Washington,Pasco,99301,979
+United States,West,California,Calexico,92231,980
+United States,West,California,Camarillo,93010,981
+United States,West,Idaho,Eagle,83616,982
+United States,West,California,Fairfield,94533,983
+United States,West,Washington,Pullman,99163,984
+United States,West,Wyoming,Cheyenne,82001,985
