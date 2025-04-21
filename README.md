@@ -150,10 +150,4 @@ This design enables fast exploration and **targeted insights** based on business
 
 ---
 
-## 📝 License
-
-This project is licensed under the **MIT License**.
-
----
-
 > 📌 **Note**: Screenshots of each tab and the `.pbix` file will be uploaded to this repository. The Power BI Service version is not public at this time.
